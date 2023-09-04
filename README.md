@@ -242,7 +242,7 @@ bot.run(ws_token)
             <td align="center">
                 <img src="https://github.com/qvco/yaylib/assets/77382767/cbffdc25-7873-4242-b065-e6a686bade54" width="200px">
                 <br />
-                <p>開発者: <a href="https://yay.space/user/93923">めんぶれ天然水。</a></p>
+                <p>開発者: <a href="[https://yay.space/user/93923](https://yay.space/user/7520368)">tori</a></p>
             </td>
             <td align="center">
                 <img src="https://github.com/qvco/yaylib/assets/77382767/65fcb885-4fbe-4170-9378-6f8d9af61ff8" width="200px">
